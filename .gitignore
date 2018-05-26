@@ -1,0 +1,6 @@
+node_modules
+TokenFactory/dist/
+TokenFactory/.embark/development/
+TokenFactory/config/production/password
+TokenFactory/node_modules/
+TokenFactory/chains.json
